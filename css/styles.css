@@ -55,7 +55,6 @@ ul{
     color: #434455;
     font-size: 16px;
     font-style: normal;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -74,7 +73,6 @@ ul{
     color: #FFF;
     text-align: center;
     font-size: 56px;
-    font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
@@ -106,7 +104,6 @@ ul{
 
 .section-two-text{
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -120,7 +117,6 @@ ul{
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -142,7 +138,6 @@ ul{
 .sec-three-text{
     text-align: center;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -152,7 +147,6 @@ ul{
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -168,7 +162,6 @@ ul{
  
 .sec-four-text{
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
@@ -182,7 +175,6 @@ ul{
     color: #F4F4FD;
     font-family: Raleway, sans-serif;
     font-size: 18px;
-    font-weight: 700;
     line-height: 1.17;
     letter-spacing: 0.03em;
 }
@@ -190,7 +182,6 @@ ul{
 .footer-text{
     color: #F4F4FD;
     font-size: 16px;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
